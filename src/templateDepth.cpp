@@ -13,5 +13,6 @@ int main()
 {
 
 	cout << "!!!Pattern  Testing !!!" << endl; // prints !!!Pattern  Testing !!!
+	cout << "!!!Pattern  Changed !!!" << endl; // prints !!!Pattern  Testing !!!
 	return 0;
 }
